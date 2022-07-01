@@ -75,6 +75,17 @@
 			
 		</div>
 	</nav>
+	<div class="container">
+		<div class ="jumbotron">
+			<div class="container">
+				<h1>웹 사이트 소개<</h1>
+				<p>간단하게 만든 게시글 사이트</p>
+				<p><a class="btn btn=primary btn-pull" href="#" role="button">자세히 알아보기</a></p>
+			</div>
+		</div>
+	
+	</div>
+	
 
 	<script src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
 	<script src="js/bootstrap.js"></script> 
